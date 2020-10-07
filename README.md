@@ -1,1 +1,3 @@
-# svg-test
+# SVG Test
+
+This repository contains SVG test files.
