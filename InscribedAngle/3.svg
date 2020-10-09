@@ -1,0 +1,35 @@
+<svg width="200" height="200" style="float:right">
+    <text x="0" y="20">図 3</text>
+    <g stroke-width="1" stroke="black" fill="none">
+        <path d="M 115 200 l 0 -180 l -5 10 m 5 -10 l 5 10" />
+        <path d="M 0 63 l 180 0 l -10 -5 m 10 5 l -10 5" />
+        <path d="M 100 77 A 20 20 0 0 0 118 82" stroke="red" />
+    </g>
+    <g text-anchor="middle">
+        <text x="115" y="15" font-style="italic">i</text>
+        <text x="186" y="68">1</text>
+    </g>
+    <g stroke-width="1" stroke="black" fill="none">
+        <circle cx="115" cy="63" r="2" fill="black" />
+        <circle cx="33" cy="145" r="2" fill="black" />
+        <circle cx="127.4" cy="157.4" r="2" fill="black" />
+        <path d="M 33 145 L 115 63 L 127.4 157.4" />
+        <path d="M 65 29 A 60 60 0 1 0 172 80" stroke="red" />
+        <circle cx="85" cy="115" r="2" fill="black" />
+        <g stroke="red" fill="red">
+            <circle cx="72" cy="106" r="2" />
+            <circle cx="123" cy="122" r="2" />
+        </g>
+    </g>
+    <g text-anchor="middle">
+        <text x="85" y="135">O´</text>
+        <text x="125" y="55">A´</text>
+        <text x="30" y="165">B´</text>
+        <text x="130" y="175">C´</text>
+        <g fill="red">
+            <text x="55" y="115">B´´</text>
+            <text x="138" y="135">C´´</text>
+        </g>
+        <text x="106" y="97" fill="red" font-style="italic">θ</text>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="200" height="200" style="float:right">
+    <text x="0" y="20">図 2</text>
+    <g stroke-width="1" stroke="black" fill="none">
+        <circle cx="85" cy="115" r="60" />
+        <path d="M 85 200 l 0 -180 l -5 10 m 5 -10 l 5 10" />
+        <path d="M 0 115 l 180 0 l -10 -5 m 10 5 l -10 5" />
+    </g>
+    <g text-anchor="middle">
+        <text x="85" y="15" font-style="italic">i</text>
+        <text x="186" y="120">1</text>
+    </g>
+    <g stroke-width="1" stroke="black" fill="none">
+        <circle cx="115" cy="63" r="2" fill="black" />
+        <circle cx="33" cy="145" r="2" fill="black" />
+        <circle cx="127.4" cy="157.4" r="2" fill="black" />
+        <path d="M 33 145 L 115 63 L 127.4 157.4 L 85 115 z" />
+        <path d="M 100 77 A 20 20 0 0 0 118 82" stroke="red" />
+        <path d="M 68 125 A 20 20 0 0 0 99 129" stroke="red" />
+    </g>
+    <g text-anchor="middle">
+        <text x="95" y="110">O</text>
+        <text x="115" y="55">A</text>
+        <text x="25" y="160">B</text>
+        <text x="130" y="175">C</text>
+        <text x="106" y="97" fill="red" font-style="italic">θ</text>
+        <text x="85" y="150" fill="red">2<tspan font-style="italic">θ</tspan></text>
+    </g>
+</svg>

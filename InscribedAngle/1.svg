@@ -1,0 +1,23 @@
+<svg width="200" height="200" style="float:right">
+    <text x="0" y="20">図 1</text>
+    <g stroke-width="1" stroke="black" fill="none">
+        <circle cx="85" cy="115" r="60" />
+        <path d="M 85 200 l 0 -180 l -5 10 m 5 -10 l 5 10" />
+        <path d="M 0 115 l 180 0 l -10 -5 m 10 5 l -10 5" />
+    </g>
+    <g text-anchor="middle">
+        <text x="85" y="15" font-style="italic">i</text>
+        <text x="186" y="120">1</text>
+    </g>
+    <g stroke-width="1" stroke="black" fill="none">
+        <path d="M 85 115 L 170 30" />
+        <path d="M 105 115 A 20 20 0 0 0 99 101" />
+        <path d="M 85 72.6 L 127.4 72.6 L 127.4 115" stroke="red" />
+        <circle cx="127.4" cy="72.6" r="2" stroke="red" fill="red" />
+    </g>
+    <g text-anchor="middle">
+        <text x="115" y="110" font-style="italic">θ</text>
+        <text x="125" y="130" fill="red">cos<tspan font-style="italic">θ</tspan></text>
+        <text x="65" y="80" fill="red">sin<tspan font-style="italic">θ</tspan></text>
+    </g>
+</svg>
